@@ -1,7 +1,7 @@
 {
   "name": "scroll-to-bottom",
   "version": "1.0.1",
-  "description": "",
+  "description": "React component that just scrolls to the bottom as you add stuff",
   "author": "tomkp <tom@tomkp.com> (http://tomkp.com)",
   "license": "MIT",
   "main": "index.js",
