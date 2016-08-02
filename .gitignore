@@ -32,3 +32,5 @@ node_modules
 /lib
 
 lcov.info
+
+index.js
