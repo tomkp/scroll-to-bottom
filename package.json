@@ -1,6 +1,6 @@
 {
   "name": "scroll-to-bottom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "author": "tomkp <tom@tomkp.com> (http://tomkp.com)",
   "license": "MIT",
@@ -23,7 +23,6 @@
     "build": "./node_modules/.bin/babel src/ScrollToBottom.js -o index.js",
     "prepublish": "npm run build"
   },
-
   "peerDependencies": {
     "react": "^15.3.0",
     "react-dom": "^15.3.0"
