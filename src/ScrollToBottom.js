@@ -24,6 +24,7 @@ export default class ScrollToBottom extends Component {
         const {className, children} = this.props;
         const style = {
             overflowY: "scroll"
+            ...this.props.style
         };
         return (<div className={`Scroll-To-Bottom ${className}`} style={style}>{children}</div>);
     }
